@@ -1,1 +1,1 @@
-Experimenting with Reveal.js and github pages
+These are the slides I gave to a group of Theoretical Physics staff at University of Sheffield in May 2015. The purpose of the talk was to introduce myself and the services that they can expect from Research Software Engineers at the University.
