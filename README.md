@@ -5,7 +5,7 @@ The latest version of the presentation can be viewed by going to http://mikecrou
 # Previous events
 Previous events where I've given this talk: 
 
-* University of Exeter - Open Science Workshop at International Society for Behavioral Ecology 2016. http://www.isbe2016.com/ (They got the version at https://github.com/mikecroucher/MLPM_talk/commit/96b3911312df8e8498b738b8f68988cf267073d1)
+* University of Exeter - Open Science Workshop at International Society for Behavioral Ecology 2016. http://www.isbe2016.com/. Symposium was https://malikaihle.wordpress.com/openscienceworkshop/ (They got the version at https://github.com/mikecroucher/MLPM_talk/commit/96b3911312df8e8498b738b8f68988cf267073d1)
 * University of Lancaster - invited by James Hensman, 2016. (They got the version at https://github.com/mikecroucher/MLPM_talk/commit/cf58420269ddefdad9642bec938c3998cd611821)
 * Data @ Sheffield: University of Sheffield, 2015 http://opendsi.cc/das2015/ - (They got the version at https://github.com/mikecroucher/MLPM_talk/commit/68331c762c7c916506ec7ced5fa30506e2e02c54)
 * University of Southampton Computational Modelling Group - http://cmg.soton.ac.uk/events/event-857/ (they got the version at https://github.com/mikecroucher/MLPM_talk/commit/6bc0406177f0127c89fca3136ebf7fc43b5ba9fe )
