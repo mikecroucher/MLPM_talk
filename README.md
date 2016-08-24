@@ -2,6 +2,15 @@ These are the slides for a presentation I give called **Is your research softwar
 
 The latest version of the presentation can be viewed by going to http://mikecroucher.github.io/MLPM_talk/
 
+# Want me to give this talk at your institution?
+
+I'm happy to travel to your instituion to give a version of this talk. All I ask for is travel expenses and the opportunity to talk to scientists and/or software/hardware geeks about Research Software Engineering before or afterwards. Please [contact me](http://www.walkingrandomly.com/?page_id=2055) to discuss this.
+
+# Reusuing these slides
+
+I'm happy for others to make use of these slides but would like to keep track of who's doing so for score-keeping purposes.
+If you've linked to the material or made use of it in your own presentation, please give me some details by making a Pull Request to the file derivative_work.md.
+
 # Previous events
 Previous events where I've given this talk: 
 
