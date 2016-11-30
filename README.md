@@ -14,7 +14,7 @@ If you've linked to the material or made use of it in your own presentation, ple
 # Previous events
 Previous events where I've given this talk: 
 
-* Workshop on Nordic Big Biomedical Data for Action in Helsinki, http://www.nordicehealth.se/2016/06/10/save-the-dates-for-workshop-on-nordic-big-biomedical-data-for-action/ (They got the version at https://github.com/mikecroucher/MLPM_talk/commit/6ebb71407b5ab3de74002c46694a5b160c0c1b6b)
+* Workshop on Nordic Big Biomedical Data for Action in Stockholm, http://www.nordicehealth.se/2016/06/10/save-the-dates-for-workshop-on-nordic-big-biomedical-data-for-action/ (They got the version at https://github.com/mikecroucher/MLPM_talk/commit/6ebb71407b5ab3de74002c46694a5b160c0c1b6b)
 * University of Edinburgh, As part of CoDiMa 2016 ,https://storify.com/CIRCA_StAndrews/codima-2016. (They got the version at https://github.com/mikecroucher/MLPM_talk/commit/0251b86d29a660efefa1d3c2bc2bb5e7b83b8973)
 * Unversity of Notthingham - School of Mathematical Sciences, 2016. (They got the version at https://github.com/mikecroucher/MLPM_talk/commit/90e42c6dca774985cb6f30a14d28ccfc0503a63a)
 * University of Exeter - Open Science Workshop at International Society for Behavioral Ecology 2016. http://www.isbe2016.com/. Symposium was https://malikaihle.wordpress.com/openscienceworkshop/ (They got the version at https://github.com/mikecroucher/MLPM_talk/commit/96b3911312df8e8498b738b8f68988cf267073d1)
