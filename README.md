@@ -1,4 +1,4 @@
-These are the slides for a presentation I give called **Is your research software correct?**. It grew from the ideas in my blog post at http://www.walkingrandomly.com/?p=5825 
+These are the slides for a presentation I give called **Is your research software correct?** It grew from the ideas in my blog post at http://www.walkingrandomly.com/?p=5825 
 
 The latest version of the presentation can be viewed by going to http://mikecroucher.github.io/MLPM_talk/
 
