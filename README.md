@@ -1,3 +1,4 @@
+
 These are the slides for a presentation I give called **Is your research software correct?** It grew from the ideas in my blog post at http://www.walkingrandomly.com/?p=5825 
 
 The latest version of the presentation can be viewed by going to http://mikecroucher.github.io/MLPM_talk/
@@ -14,6 +15,9 @@ If you've linked to the material or made use of it in your own presentation, ple
 # Previous events
 Previous events where I've given this talk: 
 
+* University of Edinburgh - Computational Mathematics with Jupyter, http://opendreamkit.org/2017/01/16/Computational_Mathematics_with_Jupyter/ (They got the version at https://github.com/mikecroucher/MLPM_talk/commit/7787f4aceb027a4a6971d2261b9d765757f4117c)
+* University of Sheffield - Research software management, sharing and sustainability workshop, https://www.sheffield.ac.uk/library/libnews/researchworkshop. (They got the version at https://github.com/mikecroucher/MLPM_talk/commit/7787f4aceb027a4a6971d2261b9d765757f4117c)
+* University of Birmingham - Research software management, sharing and sustainability workshop, http://www.birmingham.ac.uk/events/events/Research-software-management-sharing-and-sustainability-workshop.aspx. (They got the version at https://github.com/mikecroucher/MLPM_talk/commit/7787f4aceb027a4a6971d2261b9d765757f4117c)
 * Workshop on Nordic Big Biomedical Data for Action in Stockholm, http://www.nordicehealth.se/2016/06/10/save-the-dates-for-workshop-on-nordic-big-biomedical-data-for-action/ (They got the version at https://github.com/mikecroucher/MLPM_talk/commit/6ebb71407b5ab3de74002c46694a5b160c0c1b6b)
 * University of Edinburgh, As part of CoDiMa 2016 ,https://storify.com/CIRCA_StAndrews/codima-2016. (They got the version at https://github.com/mikecroucher/MLPM_talk/commit/0251b86d29a660efefa1d3c2bc2bb5e7b83b8973)
 * Unversity of Notthingham - School of Mathematical Sciences, 2016. (They got the version at https://github.com/mikecroucher/MLPM_talk/commit/90e42c6dca774985cb6f30a14d28ccfc0503a63a)
