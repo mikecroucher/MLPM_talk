@@ -5,3 +5,5 @@
 * Components of the presentation were used in an introductory talk on reproducible research in an [introduction to bioinformatics](https://github.com/widdowquinn/Teaching-IBioIC-Intro-to-Bioinformatics).
 
 * Slides were used in a [presentation about effective data visualisation](https://widdowquinn.github.io/Presentation-DataVis-Barplots/).
+
+* Might use some of it at [Data Science Africa 2018](https://www.datascienceafrica.org/dsa2018/).
